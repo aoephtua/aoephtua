@@ -1,4 +1,4 @@
-**Hi there, I'm [Thorsten A.Weintz](https://github.com/aoephtua).** :computer: :de:
+**Hi there, I'm [Thorsten A. Weintz](https://github.com/aoephtua).** :computer: :de:
 
 Main programming languages:
 

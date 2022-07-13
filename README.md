@@ -7,6 +7,8 @@ Main programming languages:
 - CSharp
 - Python
 
+All projects in owned repositories are self-developed from scratch. This profile contains no forks.
+
 Focused projects on this profile:
 
 - **[coresync](https://github.com/aoephtua/coresync)**

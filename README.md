@@ -16,5 +16,6 @@ Focused projects on this profile:
 - **[movids](https://github.com/aoephtua/movids)**
 - **[tpl-controller](https://github.com/aoephtua/tpl-controller)**
 - **[bafa-fetch](https://github.com/aoephtua/bafa-fetch)**
+- **[bafa-requests-api](https://github.com/aoephtua/bafa-requests-api)**
 
 [![Thorsten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoephtua&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)

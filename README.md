@@ -1,4 +1,4 @@
-**Hi there, I'm [Thorsten A. Weintz](https://github.com/aoephtua).** :computer: :de:
+**Hi there, I'm [Thorsten A. Weintz](https://github.com/aoephtua).** :de:
 
 Main programming languages:
 
@@ -7,7 +7,9 @@ Main programming languages:
 - CSharp
 - Python
 
-All projects in owned repositories are self-developed from scratch. This profile contains no forks.
+Technologies:
+
+[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,react,vue&theme=light)](https://skillicons.dev)
 
 Focused projects on this profile:
 
@@ -18,4 +20,4 @@ Focused projects on this profile:
 - **[bafa-fetch](https://github.com/aoephtua/bafa-fetch)**
 - **[bafa-requests-api](https://github.com/aoephtua/bafa-requests-api)**
 
-[![Thorsten's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoephtua&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![My Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aoephtua&theme=default)](https://github-profile-summary-cards.vercel.app)

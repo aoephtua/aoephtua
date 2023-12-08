@@ -16,6 +16,7 @@ Focused projects on this profile:
 - **[coresync](https://github.com/aoephtua/coresync)**
 - **[ipcamsd](https://github.com/aoephtua/ipcamsd)**
 - **[movids](https://github.com/aoephtua/movids)**
+- **[switchbot-api](https://github.com/aoephtua/switchbot-api)**
 - **[tpl-controller](https://github.com/aoephtua/tpl-controller)**
 - **[bafa-fetch](https://github.com/aoephtua/bafa-fetch)**
 - **[bafa-requests-api](https://github.com/aoephtua/bafa-requests-api)**
